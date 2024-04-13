@@ -1,4 +1,4 @@
-Welcome to the MAgedIn Extensions Documentation!
+Welcome to the MagedIn Extensions Documentation!
 ================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
