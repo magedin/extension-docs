@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MagedIn Extensions Documentations'
+copyright = '2020, MagedIn Technology'
+author = 'MagedIn Technology'
 
 release = '0.1'
 version = '0.1.0'
